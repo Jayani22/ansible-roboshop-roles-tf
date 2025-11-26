@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.jayani23.fun
+REDIS_HOST: redis.jayani23.fun
+CATALOGUE_HOST: catalogue.jayani23.fun
+CART_HOST: cart.jayani23.fun
+USER_HOST: user.jayani23.fun
+RABBITMQ_HOST: rabbitmq.jayani23.fun
+MYSQL_HOST: mysql.jayani23.fun
+SHIPPING_HOST: shipping.jayani23.fun
+PAYMENT_HOST: payment.jayani23.fun
